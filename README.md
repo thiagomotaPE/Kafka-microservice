@@ -67,7 +67,7 @@ Venda realizada: ssdfsdf345345swdgf
 
 | # | Título | Link |
 |---|--------|------|
-| 1 | MICROSERVIÇOS com JAVA SPRING e KAFKA | Comece por aqui | [Assistir no YouTube](https://www.youtube.com/watch?v=dITqvVB34ys&t=3652s) |
+| 1 | MICROSERVIÇOS com JAVA SPRING e KAFKA - Comece por aqui | [Assistir no YouTube](https://www.youtube.com/watch?v=dITqvVB34ys&t=3652s) |
 | 2 | Como subir o servidor Kafka | [Assistir no YouTube](https://www.youtube.com/watch?v=2wQ2XIy5WDM) |
 
 > O tutorial 2 também está disponível como arquivo anexado neste repositório.
